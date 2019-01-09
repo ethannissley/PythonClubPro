@@ -1,6 +1,6 @@
 # PythonClubPro
 
-A sample django app
+<b>A sample django app!</b>
 
 <b>First commit:</b> initialized project, edited settings, mapped project urls to app urls, migrated database (pre model) added templates folder and review folder in templates. Added a base html and an index view and template
 
